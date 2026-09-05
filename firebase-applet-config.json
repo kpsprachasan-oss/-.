@@ -1,0 +1,12 @@
+{
+  "projectId": "lms-kps",
+  "appId": "1:630510827319:web:6be32102e558c9e9048cb2",
+  "apiKey": "AIzaSyAT83XYraOZdh7iecm8m_E1VCd8vJU90Ms",
+  "authDomain": "lms-kps.firebaseapp.com",
+  "firestoreDatabaseId": "ai-studio-lmskps-ce02b829-24d1-43b8-930b-60f0a16e108c",
+  "storageBucket": "lms-kps.firebasestorage.app",
+  "messagingSenderId": "630510827319",
+  "measurementId": "",
+  "oAuthClientId": "630510827319-ck2b0unt0jlkc1j3qurjd131lt38fuv9.apps.googleusercontent.com",
+  "recaptchaSiteKey": ""
+}
